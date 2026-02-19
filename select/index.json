@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "バンドワゴン",
+  "base_artist": "Last Idol",
+  "createdAt": "2026-02-19T07:13:48.108496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バンドワゴン",
+      "artist": "Last Idol",
+      "has_synced": true,
+      "path": "select/01_バンドワゴン_Last_Idol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バンドワゴン",
+      "artist": "Fullkawa Honpo",
+      "has_synced": true,
+      "path": "select/02_バンドワゴン_Fullkawa_Honpo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バンドワゴン",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/03_バンドワゴン_くるり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バンドワゴン - Strings Ver.",
+      "artist": "Last Idol",
+      "has_synced": false,
+      "path": "select/pl_01_バンドワゴン_-_Strings_Ver._Last_Idol.txt"
+    }
+  ]
+}
